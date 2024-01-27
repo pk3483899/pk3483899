@@ -4,16 +4,17 @@
 Front-end Development:
 Proficient in HTML5, CSS3, and JavaScript, with a keen eye for creating responsive and intuitive user interfaces.
 
-Backend Technologies:
-Java
+Backend Technologies:Java
 
 Solid understanding of core Java concepts and best practices.
 Expertise in developing RESTful APIs using Spring Boot to create efficient and scalable backend systems.
+
 JPA/Hibernate:
 
 In-depth knowledge of Java Persistence API (JPA) and Hibernate for seamless interaction with relational databases.
 Skillful in designing and optimizing database schemas for performance and scalability.
-Spring Framework:
+
+Spring Framework:JPA | Hibernate, Spring Boot
 
 Proficient in the Spring ecosystem, particularly Spring Boot, for rapid development of production-ready applications.
 Implemented various features using Spring Security to ensure robust authentication and authorization mechanisms.
