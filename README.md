@@ -5,7 +5,7 @@ Front-end Development:
 Proficient in HTML5, CSS3, and JavaScript, with a keen eye for creating responsive and intuitive user interfaces.
 
 Backend Technologies:
-Java:
+Java
 
 Solid understanding of core Java concepts and best practices.
 Expertise in developing RESTful APIs using Spring Boot to create efficient and scalable backend systems.
