@@ -2,6 +2,7 @@
 
 💻 Technical Skills:
 Front-end Development:
+
 Proficient in HTML5, CSS3, and JavaScript, with a keen eye for creating responsive and intuitive user interfaces.
 
 Backend Technologies:Java
@@ -21,10 +22,12 @@ Implemented various features using Spring Security to ensure robust authenticati
 
 Database Management:
 MySQL:
+
 Adept at designing and managing MySQL databases.
 Experience in optimizing database queries and ensuring data integrity.
 
 🚀 Projects:
+
 Project A: Developed a scalable Marketign Web App platform using Spring Boot and Hibernate. Implemented secure user authentication and authorization using Spring Security.
 
 Project B: Contacts Web Application
