@@ -3,7 +3,7 @@
 💻 Technical Skills:
 Front-end Development:
 
-Proficient in HTML5, CSS3, and JavaScript, with a keen eye for creating responsive and intuitive user interfaces.
+Proficient in HTML5, CSS3, with a keen eye for creating responsive and intuitive user interfaces.
 
 Backend Technologies:Java
 
