@@ -28,7 +28,7 @@ Experience in optimizing database queries and ensuring data integrity.
 
 🚀 Projects:
 
-Project A: Developed a scalable Marketign Web App platform using Spring Boot and Hibernate. Implemented secure user authentication and authorization using Spring Security.
+Project A: Developed a scalable Marketign Web App platform using Spring Boot and Hibernate.
 
 Project B: Contacts Web Application
 Develop Contacts Web Application using HTML, CSS, Java, OOPs, JDBC, Servlets, JSP and MySql. It follows MVC architecture and allows the user to insert their credentials. The Admin can perform CRUD operations; the user will receive a confirmation email after submitting their credentials.
